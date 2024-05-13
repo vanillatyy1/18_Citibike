@@ -53,9 +53,8 @@ Additionally, I noticed that there are multiple ride IDs where the start station
 - Electric bikes show ride numbers steadily decreasing from April 2023 to December 2023
 - Rides on electric bikes experienced a notable surge in January 2024, suggests a growing preference for electric bikes among riders, potentially influenced by factors like convenience and environmental awareness
 
-**Heatmap by Membership Type**
-   ![Number of Rides by Membership Type](https://github.com/vanillatyy1/18_Citibike/blob/a4abca009e4e33abb73b48f09a37e435a5226400/Images
-   no_of_rides_membership_sc.jpg)
+**Number of Rides by Membership Type**
+   ![Number of Rides by Membership Type](https://github.com/vanillatyy1/18_Citibike/blob/c023b8b92dc417ff5b679c2acec29ea970936761/Images/no_of_rides_rideabletype.jpg)
 
 ## Top Station Popularity By Season 
 
@@ -106,7 +105,7 @@ The top ending stations in winter exhibit similar trends to the starting station
 **Heatmap by Membership Type**
    ![Heatmap by Membership Type](https://github.com/vanillatyy1/18_Citibike/blob/a4abca009e4e33abb73b48f09a37e435a5226400/Images/heatmap_by_membershiptype_sc.jpg)
 
-Conclusion:
+## Conclusion:
 
 In conclusion, the analysis of Citi Bike data has provided valuable insights into ridership patterns, seasonal trends, and user behavior. By examining factors such as hour of the day, weekday usage, and seasonal variations, we've gained a deeper understanding of how riders interact with the bikeshare program across different contexts. These insights can inform strategic decision-making processes aimed at optimizing service efficiency, enhancing user experience, and promoting sustainable urban transportation solutions. 
 
