@@ -4,7 +4,7 @@ The project aims to provide a comprehensive analysis of the Citi Bike program in
 
 - View Tableau Dashboard website here: https://vanillatyy1.github.io/18_Citibike/
 
-- View the project on the actual Tableau website [here](https://public.tableau.com/shared/KJB9H49HY?:display_count=n&:origin=viz_share_link)
+- View the project on the actual Tableau website: [here](https://public.tableau.com/shared/KJB9H49HY?:display_count=n&:origin=viz_share_link)
  
 
 ## About the Dataset 
